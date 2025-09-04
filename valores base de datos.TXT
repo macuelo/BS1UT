@@ -1,0 +1,35 @@
+valores a insertar agregando precio como atributo
+
+juegos (titulo, genero, precio, descargas, rating)
+
+
+('Minecraft', 'Sandbox', 19.99, 5000000, 4.7),
+('The Witcher 3: Wild Hunt', 'RPG', 39.99, 2000000, 4.9),
+('Fortnite', 'Battle Royale', 0.00, 10000000, 4.3),
+('Grand Theft Auto V', 'Acción-Aventura', 29.99, 7000000, 4.8),
+('League of Legends', 'MOBA', 0.00, 12000000, 4.5),
+('Valorant', 'Shooter Táctico', 0.00, 8000000, 4.4),
+('Counter-Strike 2', 'Shooter', 0.00, 9000000, 4.6),
+('Call of Duty: Modern Warfare II', 'Shooter', 69.99, 4000000, 4.2),
+('FIFA 23', 'Deportes', 59.99, 3500000, 4.0),
+('EA FC 24', 'Deportes', 69.99, 2500000, 4.1),
+('Elden Ring', 'RPG', 59.99, 3000000, 4.9),
+('Cyberpunk 2077', 'RPG', 49.99, 2500000, 4.2),
+('Among Us', 'Party', 4.99, 6000000, 4.3),
+('Rocket League', 'Deportes', 0.00, 5500000, 4.4),
+('Genshin Impact', 'RPG de acción', 0.00, 9500000, 4.6),
+('PUBG: Battlegrounds', 'Battle Royale', 0.00, 7000000, 4.1),
+('Apex Legends', 'Battle Royale', 0.00, 8000000, 4.3),
+('Overwatch 2', 'Shooter Héroes', 0.00, 4500000, 4.0),
+('Resident Evil 4 Remake', 'Survival Horror', 59.99, 1800000, 4.8),
+('Hogwarts Legacy', 'RPG Acción', 69.99, 2200000, 4.7),
+('Starfield', 'RPG Espacial', 69.99, 1500000, 4.2),
+('The Legend of Zelda: Tears of the Kingdom', 'Aventura', 69.99, 3500000, 4.9),
+('Super Mario Odyssey', 'Plataformas', 59.99, 5000000, 4.8),
+('Animal Crossing: New Horizons', 'Simulación', 59.99, 6000000, 4.6),
+('Splatoon 3', 'Shooter', 59.99, 2500000, 4.3),
+('Sekiro: Shadows Die Twice', 'Acción', 49.99, 2000000, 4.7),
+('Dark Souls III', 'RPG', 39.99, 2500000, 4.8),
+('Red Dead Redemption 2', 'Acción-Aventura', 59.99, 5000000, 4.9),
+('God of War Ragnarok', 'Acción-Aventura', 69.99, 3000000, 4.9),
+('Spider-Man: Miles Morales', 'Acción-Aventura', 49.99, 2500000, 4.6); 
