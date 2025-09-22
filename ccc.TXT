@@ -1,0 +1,17 @@
+public abstract class Juego {
+    protected String nombre;
+    protected double precio;
+    protected String genero;
+
+    public Juego(String nombre, double precio, String genero) {
+        this.nombre = nombre;
+        this.precio = precio;
+        this.genero = genero;
+    }
+
+    public String getNombre() { return nombre; }
+    public double getPrecio() { return precio; }
+    public String getGenero() { return genero; }
+
+    public abstract void mostrarInfo();
+}
