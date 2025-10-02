@@ -1,0 +1,11 @@
+Rank descargas
+SELECT * FROM juegos ORDER BY descargas DESC;
+
+Rank rating
+SELECT * FROM juegos ORDER BY rating DESC;
+boost rendimiento:
+
+sql
+Copiar código
+CREATE INDEX idx_juegos_rating ON juegos(rating);
+CREATE INDEX idx_juegos_descargas ON juegos(descargas);
